@@ -208,6 +208,13 @@
         "twitter" : "virejdasani",
         "linkedin": "virej-dasani-b64470209",
         "description": "Full Stack Developer"
+    },
+    {
+        "name" : "Zahid Pichen",
+        "github" : "Zahid_Pichen",
+        "twitter" : "Zahid_pichen",
+        "linkedin": "Zahid Pichen",
+        "description": "Machine Learning Engineer"
     }
 		
 ]
